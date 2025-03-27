@@ -19,4 +19,4 @@ Ce projet est distribué sous la licence MIT. Voir le fichier `LICENSE` pour plu
 
 ## Auteur
 
-Félix, Xi-ef, https://github.com/Xil-ef, veritaf.13@gmail.com
+Félix, Xil-ef, https://github.com/Xil-ef, veritaf.13@gmail.com
