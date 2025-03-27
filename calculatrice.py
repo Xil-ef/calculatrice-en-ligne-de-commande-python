@@ -1,5 +1,12 @@
 def calculer(numb1, numb2, operation):
-    """Effectue les opérations arithmétiques."""
+    """Effectue les opérations arithmétiques de base
+    Args :
+        numb1 (float) : Le premier nombre.
+        numb2 (float) : Le deuxième nombre.
+        operation (str) : L'opération à effectuer (+, -, *, /).
+
+    Returns :
+        float ou str : Le résultat du calcul ou un message d'erreur."""
     if operation == '+':
         return numb1 + numb2
     elif operation == '-':
