@@ -10,4 +10,4 @@ Ce projet est distribué sous la licence MIT. Voir le fichier `LICENSE` pour plu
 
 ## Auteur
 
-Xil-ef
+Félix, veritaf.13@gmail.com
