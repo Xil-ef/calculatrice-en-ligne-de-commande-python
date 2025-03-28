@@ -1,10 +1,6 @@
 # calculatrice-en-ligne-de-commande-python
 une simple calculatrice de Python qui permet d'effectuer les opérations de bases d'addition +; de soustraction -; de multiplication * et de division /
 
-## Utilisation
-1. Cloner le dépot `git clone https://github.com/Xil-ef/calculatrice-en-ligne-de-commande-python.git`
-2. Exécuter le fichier `calculatrice.py` : `python calculatrice.py`
-
 ## Installation
 1. Assurez-vous d'avoir Python 3 installé sur votre système.
 2. Clonez le dépôt : `git clone https://github.com/Xil-ef/calculatrice-python.git`
